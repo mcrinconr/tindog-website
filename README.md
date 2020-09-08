@@ -1,2 +1,2 @@
-# tindog-website
+# learningJSX
 Created with CodeSandbox
